@@ -1,7 +1,13 @@
+/*Michael Geraghty
+Lab Assignment 1
+Create file called random.c
+In file create a functio called randchar()
+that returns a ranndom let in the alphabet*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+#include "random.c"
 
 
 int main()
